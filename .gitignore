@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 #Cenus Api Key to ignore
 api-key.txt
+.DS_Store
