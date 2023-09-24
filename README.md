@@ -11,8 +11,6 @@ Reviewing US traffic accidents from 2016-2022 with a look at census population d
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-
-
 - [Contact](#contact)
 
 
@@ -21,10 +19,12 @@ Reviewing US traffic accidents from 2016-2022 with a look at census population d
 This will take a look at the Cities with the most traffic accidents and its cause. This can help professional drivers be proactive.
 
 ## Credits
-Aspen Jack, Samin Nikkhoo, Velvet Robinson, Arpita Sharma, Christina Zermeno
-##### [Link:] (https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_March23.csv)
-
-
+- Aspen Jack
+- Arpita Sharma
+- Christina Zermeno
+- Samin Nikkhoo
+- Velvet Robinson
+##### [Data Source: Link](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_March23.csv)
 
 
 
@@ -32,6 +32,10 @@ Aspen Jack, Samin Nikkhoo, Velvet Robinson, Arpita Sharma, Christina Zermeno
 
 ## Contact
 If there are any questions of concerns, we can be reached at:
+##### [github: aspenjack](https://github.com/aspenjack)
+##### [github: Samin-nik](https://github.com/Samin-nik)
+##### [github: arpitas0690](https://github.com/arpitas0690)
+##### [github: christinazermeno](https://github.com/christinazermeno)
 ##### [github: velvetklr](https://github.com/velvetklr)
-##### [email: velvetklr@gmail.com](mailto:velvetklr@gmail.com)
+
 
