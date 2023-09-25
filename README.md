@@ -16,7 +16,7 @@ Reviewing US traffic accidents from 2016-2022 with a look at census population d
 
 
 ## Usage
-This will take a look at the Cities with the most traffic accidents and its cause. This can help professional drivers be proactive.
+This will look at Cities in the United States with the most traffic accidents and its cause. The data can be useful to City Transportation department, and professional drivers. 
 
 ## Credits
 - Aspen Jack
