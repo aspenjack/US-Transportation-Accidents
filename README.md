@@ -1,38 +1,53 @@
-# US-Transportation-Accidents
-
-
-## Description
-Reviewing US traffic accidents from 2016-2022 with a look at census population data. 
-
-
+# US Transportation Accidents
 
 ## Table of Contents
+- [Background](#background)
+- [Deliverables](#deliverables)
+- [Resources](#resources)
+- [Overview of Code](#overviewofcode)
+- [Results](#results)
+- [Analysts](#analysts)
+- [Contact Info](#contact)
 
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Contact](#contact)
-- [Presentation](#presentation)
+## Background
+This project integrates a Census API into an inital data set of over 7 million records to identify trends surrounding US traffic accidents by population from 2017-2021 in order to ultimately identify key areas in which solutions may be implemented to reduce accidents.
+
+## Deliverables
+Trends relating to US traffic accidents
+Data-driven solutions
+
+## Resources
+### [Data Source](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_March23.csv)
+
+## Overview of Code
+[US_Traffic_Accidents_merged.ipynb](https://aspenjack.github.io/US-Transportation-Accidents/) Python code that:
+* Reads in data from a CSV
+* Converts data types
+* Reads in the Census API
+* Splits, strips, renames, and drops columns
+* Normalizes data
+* Merges, filters, and sorts tables
+* Graphs key variables to identify trends
+
+[index.html](https://github.com/aspenjack/US-Transportation-Accidents/blob/main/index.html) file that allows Python code to be deployed to a website
+
+[Outputs](https://github.com/aspenjack/US-Transportation-Accidents/tree/main/outputs) folder that contains a png of each graph created within Python code
+
+[crosswalk.csv](https://github.com/aspenjack/US-Transportation-Accidents/blob/main/Resources/crosswalk.csv) file used within Python code to bridge gap between census location data and accident location data
+
+## Results
 
 
-## Usage
-This will look at Cities in the United States with the most traffic accidents and its cause. The data can be useful to City Transportation department, and professional drivers. 
-
-## Credits
+## Analysts
 - Aspen Jack
 - Arpita Sharma
 - Christina Zermeno
 - Samin Nikkhoo
 - Velvet Robinson
-##### [Data Source](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_March23.csv)
-
-
-## Presentation
-##### [US Traffic Accidents](https://docs.google.com/presentation/d/1UhCgBKOcHsMaV3VWYpzxOfhcTNARpX2cZ-lGKt2vw5M/edit?usp=sharing)
 
 
 ## Contact
-If there are any questions of concerns, we can be reached at:
+For questions or concerns, we can be reached at:
 ##### [github: aspenjack](https://github.com/aspenjack)
 ##### [github: Samin-nik](https://github.com/Samin-nik)
 ##### [github: arpitas0690](https://github.com/arpitas0690)
